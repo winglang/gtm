@@ -1,7 +1,6 @@
 ---
 name: Content Item
 about: Organic content we want to amplify
-title: "[Content]"
 labels: content
 assignees: dannac2
 
