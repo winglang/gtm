@@ -16,7 +16,7 @@ Put here a link to source of the content (video, blog, etc)
 
 <!--
 Write one paragraph which describes what is interesting about this content item from the point of view of our audience (users/contributors/...). Ask yourself why would someone care about this item? What's new about it etc...
----
+-->
 
 ## Copy
 
