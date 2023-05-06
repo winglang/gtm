@@ -131,7 +131,7 @@ and customize Wingland to work with their existing environment
 * [business benefit] Winglang enables developers to focus on the value they are creating for their
 users, rather than the mechanics of the platform
 
-### Bring back your creative flow/Bridging the gap between imagination and creation (Creativity)
+### Bring back your creative flow/Code.Uninterrupted/Bridging the gap between imagination and creation (Creativity)
 > #dev experience 
 
 * No boilerplate code, no glue logic. Winglang abstracts away the underlying complexity of
