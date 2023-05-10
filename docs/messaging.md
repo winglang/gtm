@@ -164,7 +164,7 @@ to run, debug and test complete cloud applications within local environments
 * Import and export CDK constructs to and from 
 * Winglang Integrates into existing codebases - write runtime code in other languages and reference
 it with 
-* Winglang Fine tune infrastructure with escape hatches into underlying layers 
+* Fine tune infrastructure with escape hatches into underlying layers 
 * Built-in support for common cloud services, such as AWS Lambda and SNS 
 * Natively use any cloud resource in the Terraform ecosystem Interoperable with the JavaScript
 ecosystem 
