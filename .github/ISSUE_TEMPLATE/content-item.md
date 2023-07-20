@@ -23,3 +23,12 @@ Write one paragraph which describes what is interesting about this content item 
 - [ ] Draft (owner: @dannac2) - <danna puts here a link to google doc>
 - [ ] Engineering review
 - [ ] Elad review
+
+## Posts
+
+- [ ] YouTube (if applicable)
+- [ ] Twitter
+- [ ] LinkedIn
+- [ ] Blog
+- [ ] Slack
+
