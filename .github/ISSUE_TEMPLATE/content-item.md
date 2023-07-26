@@ -21,8 +21,7 @@ Write one paragraph which describes what is interesting about this content item 
 ## Copy
 
 - [ ] Draft (owner: @dannac2) - <danna puts here a link to google doc>
-- [ ] Engineering review
-- [ ] Elad review
+- [ ] Content review (owner: @hasanaburayyan)
 
 ## Posts
 
