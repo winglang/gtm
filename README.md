@@ -5,7 +5,7 @@
 ## Official Marketing Materials
 
 - [Messaging Guide](./docs/messaging.md)
-- [Analyst Deck] (https://docs.google.com/presentation/d/1P7t8maMSjgE8GxG1xOavUoPDXu37bLMi/edit#slide=id.g258fdc6740b_0_90)
+- [Analyst Deck](https://docs.google.com/presentation/d/1P7t8maMSjgE8GxG1xOavUoPDXu37bLMi/edit#slide=id.g258fdc6740b_0_90)
 
 ## Beta Launch
 
