@@ -19,6 +19,16 @@
 - [Market Analysis](https://docs.google.com/presentation/d/1k3CQOYY6d0SGtE9saqOBIQX9hNeqGwtz/edit)
 - [Positioning](https://docs.google.com/presentation/d/19ibf13GQ91OOa9KknMQ9KdD0b3lzhjZh/edit)
 
+## Newsletter structure
+
+These are the sections that should be in each, any additional section is always welcome.
+- First make sure the title of the newsletter
+- Latest Wingly changelog topics with links to each item
+- Next Wingnuts events
+  - This may contain the Wingly update
+  - Any future workshop or meetup
+- Next Community events/office hour/meeting
+  
 ## Newsletter sending instructions
 
 - Don't use shortened links (slack join, or youtube videos) because it causes emails to go to spam. Use long versions instead. For instance, this is our full Slack join- join.slack.com/t/winglang/shared_invite/zt-23emj8uue-ZF4ijRNtdDOLO5F7iIz~NA
