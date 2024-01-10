@@ -17,6 +17,7 @@ Influencers                           | @NathanTarbert (with Nevo)        |
 Thought Leaders                       | @NathanTarbert (with Nevo)        |
 Newsletter                            | @NathanTarbert                    |
 Wingly                                | @NathanTarbert                    |
+Analytics                             | @ainvoner                         |
 Content                               | @NathanTarbert                    |
 SEO                                   | @ShaiBer (via HitSubscribe)       |
 Case studies                          | @ShaiBer (via Adam PR)            |
