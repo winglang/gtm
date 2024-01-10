@@ -1,23 +1,38 @@
-# The Home of the Monadaian Marketing Division
+# Wing is Going To Market
 
-> Hunting developers since 2023
+## GTM Ownership
 
-## Official Marketing Materials
+Ownership                             | Owner                             | Protocol
+--------------------------------------|-----------------------------------|---------------------------
+Commercial track lead                 | @staycoolcall911                  |
+Open-source track lead                | @revitalbarletz                   | [Project template](https://github.com/orgs/winglang/projects/28/views/1)
+Visual design                         | @amielpb                          |
+TikTok, Instagram                     | @amielpb                          |
+Copywriting and messaging             | @Chriscbr                         |
+Landing pages                         | @NathanTarbert (with Nevo)        |
+Video                                 | @NathanTarbert                    |
+Social (twitter, linkedin)            | @NathanTarbert                    |
+Product Hunt                          | @NathanTarbert (with Nevo)        | 
+Influencers                           | @NathanTarbert (with Nevo)        |
+Thought Leaders                       | @NathanTarbert (with Nevo)        |
+Newsletter                            | @NathanTarbert                    |
+Wingly                                | @NathanTarbert                    |
+Content                               | @NathanTarbert                    |
+SEO                                   | @ShaiBer (via HitSubscribe)       |
+Case studies                          | @ShaiBer (via Adam PR)            |
+Public relations                      | @ShaiBer (via Adam PR)            |
+CFPs                                  | @revitalbarletz (via Sharone CFP) |
+Conferences                           | @revitalbarletz                   |
+Hackathons                            | @revitalbarletz (via Nevo)        |
+Sales collaterals                     | @staycoolcall911                  |
+Websites (winglang/wing.cloud)        | TBD ???                           |
+Workshops, tutorials                  | TBD (squad)                       |
+Documentation squad                   | TBD (squad)                       |
+Communities (reddit, slack, discord)  | TBD (squad)                       |
 
-- [Messaging Guide](./docs/messaging.md)
-- [Analyst Deck](https://docs.google.com/presentation/d/1P7t8maMSjgE8GxG1xOavUoPDXu37bLMi/edit#slide=id.g258fdc6740b_0_90)
 
-## Beta Launch
+---
 
-- [All tasks](https://github.com/orgs/winglang/projects/2/views/26)
-- [P1 board](https://github.com/orgs/winglang/projects/2/views/28)
-- [PR Kit](https://drive.google.com/drive/folders/1l6ayQWXzptPFjU4ojryt2q72SxmbabZS)
-- [Hebrew PR](https://docs.google.com/document/d/1nuEqiDYL32dcq6Ql_Ksvlg0madUq7G2Qg01Rh3GrW0w/edit)
-
-## Research
-
-- [Market Analysis](https://docs.google.com/presentation/d/1k3CQOYY6d0SGtE9saqOBIQX9hNeqGwtz/edit)
-- [Positioning](https://docs.google.com/presentation/d/19ibf13GQ91OOa9KknMQ9KdD0b3lzhjZh/edit)
 
 ## Newsletter structure
 
