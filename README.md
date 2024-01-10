@@ -15,21 +15,22 @@ Social (twitter, linkedin)            | @NathanTarbert                    |
 Product Hunt                          | @NathanTarbert (with Nevo)        | 
 Influencers                           | @NathanTarbert (with Nevo)        |
 Thought Leaders                       | @NathanTarbert (with Nevo)        |
-Newsletter                            | @NathanTarbert                    |
+Newsletter                            | @NathanTarbert, @MarkMcCulloh     |
 Wingly                                | @NathanTarbert                    |
-Analytics                             | @ainvoner                         |
-Content                               | @NathanTarbert                    |
-SEO                                   | @ShaiBer (via HitSubscribe)       |
+Analytics                             | @ainvoner                                 |
+Content                               | @ShaiBer (via HitSubscribe, Asher, Nathan)|
+SEO                                   | @ShaiBer (via HitSubscribe)               |
 Case studies                          | @ShaiBer (via Adam PR)            |
 Public relations                      | @ShaiBer (via Adam PR)            |
+Open-source community                 | @revitalbarletz                   |
 CFPs                                  | @revitalbarletz (via Sharone CFP) |
 Conferences                           | @revitalbarletz                   |
 Hackathons                            | @revitalbarletz (via Nevo)        |
 Sales collaterals                     | @staycoolcall911                  |
-Websites (winglang/wing.cloud)        | TBD ???                           |
+Websites (winglang/wing.cloud)        | @amielpb                          |
 Workshops, tutorials                  | TBD (squad)                       |
 Documentation squad                   | TBD (squad)                       |
-Communities (reddit, slack, discord)  | TBD (squad)                       |
+Communities (reddit, slack, discord)  | @NathanTarbert + TBD (squad)      |
 
 
 ---
