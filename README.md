@@ -2,7 +2,7 @@
 
 ## GTM Ownership
 
-Ownership                             | Owner                             | Protocol
+Ownership                             | Owner                             | Runbook
 --------------------------------------|-----------------------------------|---------------------------
 Commercial track lead                 | @staycoolcall911                  |
 Open-source track lead                | @revitalbarletz                   | [Project template](https://github.com/orgs/winglang/projects/28/views/1)
