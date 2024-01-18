@@ -1,40 +1,6 @@
 # Wing is Going To Market
 
-## GTM Ownership
-
-Ownership                             | Owner                             | Runbook
---------------------------------------|-----------------------------------|---------------------------
-Commercial track lead                 | @staycoolcall911                  |
-Open-source track lead                | @revitalbarletz                   | [Project template](https://github.com/orgs/winglang/projects/28/views/1)
-Visual design                         | @amielpb                          |
-TikTok, Instagram                     | @amielpb                          |
-Copywriting and messaging             | @Chriscbr                         |
-Landing pages                         | @NathanTarbert (with Nevo)        |
-Video                                 | @NathanTarbert                    |
-Social (twitter, linkedin)            | @NathanTarbert                    |
-Product Hunt                          | @NathanTarbert (with Nevo)        | 
-Influencers                           | @NathanTarbert (with Nevo)        |
-Thought Leaders                       | @NathanTarbert (with Nevo)        |
-Newsletter                            | @NathanTarbert, @MarkMcCulloh     |
-Wingly                                | @NathanTarbert                    |
-Analytics                             | @ainvoner                                 |
-Content                               | @ShaiBer (via HitSubscribe, Asher, Nathan)|
-SEO                                   | @ShaiBer (via HitSubscribe)               |
-Case studies                          | @ShaiBer (via Adam PR)            |
-Public relations                      | @ShaiBer (via Adam PR)            |
-Open-source community                 | @revitalbarletz                   |
-CFPs                                  | @revitalbarletz (via Sharone CFP) |
-Conferences                           | @revitalbarletz                   |
-Hackathons                            | @revitalbarletz (via Nevo)        |
-Sales collaterals                     | @staycoolcall911                  |
-Websites (winglang/wing.cloud)        | @amielpb                          |
-Workshops, tutorials                  | TBD (squad)                       |
-Documentation squad                   | TBD (squad)                       |
-Communities (reddit, slack, discord)  | @NathanTarbert + TBD (squad)      |
-
-
----
-
+Moved to [Notion](https://www.notion.so/winghq/Home-of-the-Squads-a24ee646797c49b7a8f30bc26db38850?pvs=4)
 
 ## Newsletter structure
 
