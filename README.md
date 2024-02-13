@@ -11,13 +11,60 @@
 ## Weekly launches
 - [Weekly launches project](https://www.notion.so/winghq/abbcce5dc27b46dc8112e73873614e49?v=c0f0579bb9304e2da47db7f88fbdabfd)
 
-# Main activities
-- Supporting Sales motion led by Uri (1-pager, presentation, wing.cloud, etc.)
-- Weekly growth pushes (launches) with Nevo, aiming to achieve a critical mass to become trending on GH and gain a massive influx of stars, community members, etc.
-- Supporting use cases led by Revital
-- General marketing activities (Wingly, Newsletter, social amplification, etc.)
+# Main tracks
+** Supporting Sales motion. Owner: Amiel
+- 1-pager
+- Presentations
+- wing.cloud
+ 
+** Weekly growth pushes (launches) with Nevo. Owner: Nathan
+The aim is to achieve a critical mass to become trending on GH and gain a massive influx of stars, community members, etc.
+- Content
+- Social
+- Thought leaders / Influencers
+- Product hunt
+- Workshops
+- Private communities
 
-# Track ownerships
+** Supporting use cases. Owner: Revital
+- Content
+- Social
+- Thought leaders / Influencers
+- Product hunt
+- Workshops
+- Private communities
+- Landing pages
+
+** General marketing activities
+*** Currently paused
+- Wingly
+- Newsletter
+- Social amplification
+
+*** Owned by Shai Ber
+- Plan
+- Messaging
+- Positioning
+- Domains
+- Brands
+- Social strategy
+- OSS projects
+- SEO
+- PR
+- Make us thought leaders
+- Other hacks
+
+*** Owned by Revital Barletz
+- CFPs
+- Conferences
+- Hackathons
+  
+*** Owned by Amiel Preiss Blum
+- Branding
+- Winglang.io
+
+
+
 
 
 
