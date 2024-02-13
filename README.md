@@ -1,4 +1,5 @@
 # Resources
+
 ## Newsletter
 - [Newsletter structure](https://github.com/winglang/gtm/blob/main/newsletter/structure.md)
 - [Newsletter project template](https://github.com/winglang/gtm/blob/main/newsletter/project%20template.md)
@@ -11,13 +12,13 @@
 ## Weekly launches
 - [Weekly launches project](https://www.notion.so/winghq/abbcce5dc27b46dc8112e73873614e49?v=c0f0579bb9304e2da47db7f88fbdabfd)
 
-# Main tracks
-## Supporting Sales motion. Owner: Amiel
+# Marketing tracks
+## Supporting Sales motion. Owner: Amiel Preiss-Blum
 - 1-pager
 - Presentations
 - wing.cloud
  
-## Weekly growth pushes (launches) with Nevo. Owner: Nathan
+## Weekly growth pushes (launches) with Nevo. Owner: Nathan Tarbert
 The aim is to achieve a critical mass to become trending on GH and gain a massive influx of stars, community members, etc.
 - Content
 - Social
@@ -26,7 +27,7 @@ The aim is to achieve a critical mass to become trending on GH and gain a massiv
 - Workshops
 - Private communities
 
-## Supporting use cases. Owner: Revital
+## Supporting use cases. Owner: Revital Barletz
 - Content
 - Social
 - Thought leaders / Influencers
@@ -36,9 +37,12 @@ The aim is to achieve a critical mass to become trending on GH and gain a massiv
 - Landing pages
 
 ## General marketing activities
+
 ### Currently paused
 - Wingly
 - Newsletter
+
+## No SLA
 - Social amplification
 
 ### Owned by Shai Ber
@@ -62,9 +66,3 @@ The aim is to achieve a critical mass to become trending on GH and gain a massiv
 ### Owned by Amiel Preiss Blum
 - Branding
 - Winglang.io
-
-
-
-
-
-
