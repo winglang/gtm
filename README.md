@@ -12,12 +12,12 @@
 - [Weekly launches project](https://www.notion.so/winghq/abbcce5dc27b46dc8112e73873614e49?v=c0f0579bb9304e2da47db7f88fbdabfd)
 
 # Main tracks
-** Supporting Sales motion. Owner: Amiel
+## Supporting Sales motion. Owner: Amiel
 - 1-pager
 - Presentations
 - wing.cloud
  
-** Weekly growth pushes (launches) with Nevo. Owner: Nathan
+## Weekly growth pushes (launches) with Nevo. Owner: Nathan
 The aim is to achieve a critical mass to become trending on GH and gain a massive influx of stars, community members, etc.
 - Content
 - Social
@@ -26,7 +26,7 @@ The aim is to achieve a critical mass to become trending on GH and gain a massiv
 - Workshops
 - Private communities
 
-** Supporting use cases. Owner: Revital
+## Supporting use cases. Owner: Revital
 - Content
 - Social
 - Thought leaders / Influencers
@@ -35,13 +35,13 @@ The aim is to achieve a critical mass to become trending on GH and gain a massiv
 - Private communities
 - Landing pages
 
-** General marketing activities
-*** Currently paused
+## General marketing activities
+### Currently paused
 - Wingly
 - Newsletter
 - Social amplification
 
-*** Owned by Shai Ber
+### Owned by Shai Ber
 - Plan
 - Messaging
 - Positioning
@@ -54,12 +54,12 @@ The aim is to achieve a critical mass to become trending on GH and gain a massiv
 - Make us thought leaders
 - Other hacks
 
-*** Owned by Revital Barletz
+### Owned by Revital Barletz
 - CFPs
 - Conferences
 - Hackathons
   
-*** Owned by Amiel Preiss Blum
+### Owned by Amiel Preiss Blum
 - Branding
 - Winglang.io
 
