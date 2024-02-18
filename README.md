@@ -18,7 +18,7 @@
 🟡 Slightly off track but recoverable
 🔴 Significantly off track
 
-## Dashboards:
+## Dashboards
 - [Website traffic](https://lookerstudio.google.com/reporting/d68b9393-2267-4779-ac4a-64c57da9e88b/page/pjDjD/edit)
 - [Traffic sources](https://lookerstudio.google.com/reporting/d68b9393-2267-4779-ac4a-64c57da9e88b/page/p_0zn4yi08bd/edit)
 - [Chanels over time](https://lookerstudio.google.com/reporting/d68b9393-2267-4779-ac4a-64c57da9e88b/page/p_atvkd4sscd/edit)
