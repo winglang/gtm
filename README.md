@@ -1,4 +1,4 @@
-#KPIs
+# KPIs
 
 | KPI Category            | Metric                   | Q1 Target | Current Numbers | Status | Last Week's Addition | This Week's Addition | Links to Data Source               |
 |-------------------------|--------------------------|-----------|-----------------|--------|----------------------|----------------------|------------------------------------|
@@ -17,6 +17,12 @@
 ✅ On track
 🟡 Slightly off track but recoverable
 🔴 Significantly off track
+
+## Dashboards:
+- [Website traffic](https://lookerstudio.google.com/reporting/d68b9393-2267-4779-ac4a-64c57da9e88b/page/pjDjD/edit)
+- [Traffic sources](https://lookerstudio.google.com/reporting/d68b9393-2267-4779-ac4a-64c57da9e88b/page/p_0zn4yi08bd/edit)
+- [Chanels over time](https://lookerstudio.google.com/reporting/d68b9393-2267-4779-ac4a-64c57da9e88b/page/p_atvkd4sscd/edit)
+- [Refferers](https://lookerstudio.google.com/reporting/d68b9393-2267-4779-ac4a-64c57da9e88b/page/p_a0v8tinldd/edit)
 
 
 # Resources
