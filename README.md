@@ -1,11 +1,11 @@
 # KPIs
 
 | KPI Category            | Metric                   | Q1 Target | Current Numbers | Status | Last Week's Addition | This Week's Addition | Links to Data Source               |
-|-------------------------|--------------------------|-----------|-----------------|--------|----------------------|----------------------|------------------------------------|
+|-------------------------|--------------------------|-----------|-----------------|---------|----------------------|----------------------|------------------------------------|
 | Social following        | LinkedIn followers       | 1.3K      | 1.384K          | ✅      | +10                  | +8                    | [LinkedIn](https://www.linkedin.com/company/80551652/admin/analytics/followers/) |
 |                         | Twitter followers        | 1.3K      | 1.3K            | ✅      | +25                  | +30                   | [Twitter](https://twitter.com/winglangio) |
 |                         | Newsletter subscriptions | 1.5K      | 1.989K          | ✅      | +30                  | +40                   | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
-| Awareness               | Github stars             | 3.35K     | 3.324K          | ✅      | +84                  | +70                   | [GitHub](https://github.com/winglang/wing/stargazers) |
+| Awareness               | Github stars             | 3.35K     | 3.36K           | ✅      | +84                  | +70                   | [GitHub](https://github.com/winglang/wing/stargazers) |
 |                         | Website visitors         | 25K       | 12K             | 🟡      | +2K                  | +2K                   | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome) |
 |                         | Slack members            | 672       | 1018            | ✅      | +30                  | +23                   | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
 | Usage                   | Signups                  | 150       | 68              | 🟡      | +38                  | +30                   | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l) |
