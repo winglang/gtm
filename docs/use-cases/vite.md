@@ -30,9 +30,12 @@ $ wing new react-vite
 Let's check out what we now have in our project directory:
 
 ```bash
-main.w
-wing.toml
+/frontend
+ -> vite react template files
+/backend
+ -> main.w
 package.json
+package-lock.json
 ```
 TBD - Add description on each file.
 
