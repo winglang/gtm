@@ -42,8 +42,7 @@ TBD - Add description on each file.
 With Vite powering the frontend development server and Wing providing the backend infrastructure, Cristian was able to create a seamless integration between 
 the two, resulting in a highly efficient and responsive development environment.
 
-The integration also included real-time updates via WebSockets, allowing users to experience immediate changes to the product page without the need for 
-page refresh.
+The integration also included real-time updates via WebSockets, providing the users the perfect chat experience.
 
 > Built-in Wing platforms such as tf-aws support certain common configuration options (such as private APIs). If you need additional customization, you can always create your own custom platforms and have complete control over how your app is deployed to the cloud.
 > 
