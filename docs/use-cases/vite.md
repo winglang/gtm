@@ -1,18 +1,12 @@
 # Vite User Story
 
-Cristian, a frontend engineer at a thriving e-commerce platform, found himself facing a critical challenge in his development process. 
-As his team worked on enhancing the platform's product page with dynamic features, Cristian noticed that the build times using their existing tool were 
-slowing down significantly. 
-With each code change requiring a lengthy rebuild process, it became difficult for him to iterate fast and maintain productivity.
+Cristian, a full-stack developer at an e-commerce company, received a task to develop a chat widget to enable customer interaction with sales representatives. Envisioning a React app enhanced with WebSocket support for an exceptional user experience, Cristian faced a challenge: he has no prior experience with WebSockets.
 
-Determined to overcome this obstacle, Cristian was on a mission to find a solution that could streamline their development workflow without compromising
-on functionality. After thorough research, he discovered a beautiful tutorial about *React, Vite & WebSockets* with an appealing playful graphics pops up.
-A lightning-fast build tool that promised near-instantaneous hot module replacement (HMR) and quick rebuild times during development. 
-Intrigued by its potential, Cristian decided to integrate Vite into their project as well as leveraging Wing's backend capabilities to complement 
-the frontend work done with React and Vite.
+Anticipating a repetitive cycle of testing and tweaking to perfect the application, Cristian remembered a previous project where he battled with unfamiliar technology. a daunting period marked by endless cycles of deployment, testing, corrections, and redeployment.
 
-Following a detailed guide provided by Wing, Cristian embarked on integrating the three technologies – React, Vite, and Wing – into their project. 
-He started with installing Wing CLI:
+Feeling discouraged, Cristian suddenly recalls a conversation with a colleague about a fascinating workshop about creating React Vite project with WebSocket support. What stood out to him was that the whole development and testing process was all done locally without the need to deploy to the cloud!!! That could change everything for him. With new hope in his heart, Cristian took it as an opportunity not only to master a new skill but also to streamline the development process.
+
+Cristian started to go over the tutorial to create the basics wiring of his application:
 
 ```bash
 npm i -g wingcli
@@ -25,7 +19,7 @@ wing --version
 0.33.40
 ```
 
-And then created a new project using the `react-vite-websockets` quickstart:
+And then created a new project using the `react-vite` quickstart:
 
 ```bash
 $ mkdir my-awsome-site
