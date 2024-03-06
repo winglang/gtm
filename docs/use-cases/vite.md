@@ -24,7 +24,7 @@ And then created a new project using the `react-vite` quickstart:
 ```bash
 $ mkdir my-awsome-site
 $ cd my-awsome-site
-$ wing new react-vite-websockets
+$ wing new react-vite
 ```
 
 Let's check out what we now have in our project directory:
