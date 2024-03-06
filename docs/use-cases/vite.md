@@ -28,7 +28,7 @@ wing --version
 And then created a new project using the `react-vite-websockets` quickstart:
 
 ```bash
-$ mkdir my-api
+$ mkdir my-awsome-site
 $ cd my-api
 $ wing new react-vite-websockets
 ```
