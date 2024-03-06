@@ -23,7 +23,7 @@ And then created a new project using the `react-vite` quickstart:
 
 ```bash
 $ mkdir my-awsome-site
-$ cd my-api
+$ cd my-awsome-site
 $ wing new react-vite-websockets
 ```
 
