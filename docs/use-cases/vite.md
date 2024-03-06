@@ -53,7 +53,7 @@ Before we deploy our app to AWS, let's first check it out in the Wing Simulator:
 wing run
 ```
 
-> If this is the first time you are running the Wing Simulator on your machine, you'll need to sign up with your GitHub credentials so that you can later on setup your app for Wing Previews and use cloud-based development tools like webhook forwarding and app sharing.
+> If this is the first time you are running the Wing Simulator on your machine, you'll need to sign up with your GitHub or Google credentials so that you can later deploy your app using Wing Previews and use cloud-based development tools like webhook forwarding and app sharing.
 > 
 
 Once the Wing Simulator is running, you'll be able to see your API endpoint, invoke it and see the response.
