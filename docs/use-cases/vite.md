@@ -40,7 +40,6 @@ Let's check out what we now have in our project directory:
 package.json
 package-lock.json
 ```
-TBD - Add description on each file.
 
 With Vite powering the frontend development server and Wing providing the backend infrastructure, Cristian was able to create a seamless integration between 
 the two, resulting in a highly efficient and responsive development environment.
