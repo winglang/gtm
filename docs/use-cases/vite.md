@@ -31,7 +31,9 @@ Let's check out what we now have in our project directory:
 
 ```bash
 /frontend
- -> vite react template files
+-> /.winglibs
+-> /node_modules
+ -> vite react template files...
 /backend
  -> main.w
 package.json
