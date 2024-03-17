@@ -16,7 +16,7 @@ You can check the CLI version like this:
 
 ```bash
 wing --version
-0.33.40
+0.61.4
 ```
 
 And then created a new project using the `react-vite` quickstart:
