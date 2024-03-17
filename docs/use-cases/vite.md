@@ -14,7 +14,7 @@ Cristian started with installing Wing using the following command:
 npm i -g wing
 ```
 
-You can check the CLI version like this:
+He check the CLI version:
 
 ```bash
 wing --version
