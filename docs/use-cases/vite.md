@@ -64,7 +64,7 @@ wing run
 > If this is the first time you are running the Wing Simulator on your machine, you'll need to sign up with your GitHub or Google credentials so that you can later deploy your app using Wing Previews and use cloud-based development tools like webhook forwarding and app sharing.
 > 
 
-Next, you can deploy this to the cloud, use this [guideline](https://www.winglang.io/docs/start-here/aws)to deploy to AWS.
+Next, you can deploy this to the cloud, use this [guide](https://www.winglang.io/docs/start-here/aws) to deploy to AWS.
 
 
 A couple of weeks later, Cristian gets an email from Revital Barletz, Head of Community at the Wing team:
