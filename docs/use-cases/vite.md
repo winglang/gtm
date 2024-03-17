@@ -37,7 +37,11 @@ The following file and directories were automatically created:
 -> /node_modules
  -> vite react template files...
 /backend
+-> /node_modules
+ -> broadcaster.w
  -> main.w
+ -> package.json
+ -> package-lock.json
 / node_modules
 package.json
 package-lock.json
