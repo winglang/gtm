@@ -6,7 +6,7 @@ Anticipating a repetitive cycle of testing and tweaking to perfect the applicati
 
 Feeling discouraged, Cristian suddenly recalls a conversation with a colleague about a fascinating workshop about creating React Vite project with WebSocket support. What stood out to him was that the whole development and testing process was all done locally without the need to deploy to the cloud!!! That could change everything for him. With new hope in his heart, Cristian took it as an opportunity not only to master a new skill but also to streamline the development process.
 
-Cristian started to go over the tutorial to create the basics wiring of his application:
+Cristian began exploring the tutorial to grasp the fundamental wiring of his application. This tutorial wasn't just a basic guide, it was an in-depth workshop based on the newly introduced Wing `react-vite` template. This template is specifically designed to lay the groundwork for a FE and BE integration, complete with WebSocket support.
 
 ```bash
 npm i -g wing
