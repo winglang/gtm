@@ -9,7 +9,7 @@ Feeling discouraged, Cristian suddenly recalls a conversation with a colleague a
 Cristian started to go over the tutorial to create the basics wiring of his application:
 
 ```bash
-npm i -g wingcli
+npm i -g wing
 ```
 
 You can check the CLI version like this:
