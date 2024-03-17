@@ -36,6 +36,7 @@ Let's check out what we now have in our project directory:
  -> vite react template files...
 /backend
  -> main.w
+/ node_modules
 package.json
 package-lock.json
 ```
