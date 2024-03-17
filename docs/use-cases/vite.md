@@ -8,6 +8,8 @@ Feeling discouraged, Cristian suddenly recalls a conversation with a colleague a
 
 Cristian began exploring the tutorial to grasp the fundamental wiring of his application. This tutorial wasn't just a basic guide, it was an in-depth workshop based on the newly introduced Wing `react-vite` template. This template is specifically designed to lay the groundwork for a FE and BE integration, complete with WebSocket support.
 
+Cristian started with installing Wing using the following command:
+
 ```bash
 npm i -g wing
 ```
@@ -27,7 +29,7 @@ $ cd my-awsome-site
 $ wing new react-vite
 ```
 
-Let's check out what we now have in our project directory:
+The following file and directories were automatically created:
 
 ```bash
 /frontend
