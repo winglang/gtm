@@ -19,7 +19,7 @@ wing --version
 0.61.4
 ```
 
-And then created a new project using the `react-vite` quickstart:
+And then created a new project using the new `react-vite` template:
 
 ```bash
 $ mkdir my-awsome-site
