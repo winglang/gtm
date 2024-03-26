@@ -19,12 +19,12 @@ This guide will walk you through building and deploying a fully working AI-power
 
 Our bot will be triggered by "@mentions" on a Slack channel and use Dall-E (OpenAI's image generation model) to produce a response. It can be used for a million different things. We are going to deploy this application on AWS in 3 minutes!
 
-[Let us know](https://t.winglang.io/slack) what you are building it with it.
+[Let us know](https://t.winglang.io/slack) what you are building with it.
 
 If you like, you can also check out these resources:
 
-- Watch this [demo video](https://wing.cloud/videos/slack-bot)
-- Sign up for an [online workshop](https://wing.cloud/workshops/slack-bot)
+- Watch this [demo video](https://winglang.io/videos/slack-bot)
+- Sign up for an [online workshop](https://winglang.io/workshops/slack-bot)
 
 Before we get started, a few words about Wing. Wing is a new open-source framework for building serverless applications. Wing's mission is to offer the best serverless developer experience on the planet. One of the biggest pains people have when using serverless is that they constantly have to wait for deployments, and what I love most about Wing is the Wing Simulator which allows you to develop your entire serverless application without having to deploy anything on the cloud. Let's get started and you'll see what I mean.
 
@@ -37,7 +37,7 @@ So without further ado, bring in the BOTS!
 Let's start by installing the Wing CLI (you'll need Node.js >= 10.x installed):
 
 ```bash
-npm i -g wingcli
+npm i -g wing
 ```
 
 You can check the CLI version like this:
@@ -49,40 +49,31 @@ wing --version
 
 > As you can see, Wing is still in pre-release, so expect some hiccups and don't be shy reporting issues or get help from the awesome people hanging out on the [Wing Slack](https://t.winglang.io/slack).
 
-Ok, now that we have the Wing CLI installed, let's create a new project using the `ai-slack-bot` quick-start:
+Ok, now that we have the Wing CLI installed, let's create a new project using the `slack-bot` quick-start:
 
 ```bash
 $ mkdir my-slack-bot
 $ cd my-slack-bot
-$ wing new ai-slack-bot
+$ wing new slack-bot
 ```
 
 ## Exploring your new project
 
-Some files were created from this quick-start project. You'll see 3 files `README.md`, `main.w` and `package.json`.
+Some files were created from this quick-start project. You'll see 3 files `README.md`, `main.w`, and `package.json`.
 
 Let's take a look at the `main.w` file:
 
 ```js
 bring slack;
-bring openai;
 bring cloud;
 
 const bot = new slack.App() as "slack";
 
-const ai = new openai.OpenAi() as "openai";
-
 bot.onEvent("app_mention", inflight (ctx, event) => {
   let mention = slack.AppMentionEvent.fromJson(event);
 
-  let images = ai.generateImage(
-    model: "dall-e-3",
-    prompt: mention.text,
-    size: "1024x1024"
-  );
-
   let message = new slack.Message();
-  message.addImage(images.at(0), alt: message);
+  message.addSection("You mentioned me, with: {mention.text}");
   ctx.thread.post(message);
 });
 ```
@@ -108,10 +99,6 @@ In order for Slack to be able to send messages to your app, we will need to add 
 Under `Subscribe to bot events`, add the following events:
 - `app_mention`
 
-## Configure your OpenAI API key
-
-(TODO: add instructions on how to get an OpenAI API key. Which can be done in the blog)
-
 ## Configuring your application 
 
 In order for our app to be able to work it will need:
@@ -119,10 +106,46 @@ In order for our app to be able to work it will need:
 1. Configure a Slack app and provide the following Slack credentials:
   - `SLACK_SIGNING_SECRET`
   - `SLACK_BOT_TOKEN`
-2. Configure an OpenAI API key and provide the following OpenAI credentials:
-  - `OPEN_AI_API_KEY`
 
-These credentials can be provided either through environment variables or through the `wing.toml` file. In a production environment, it is recommended to use environment variables.
+These credentials will be provided through the use of `cloud.Secret` resources. We will see how to configure them below.
+
+## Configure your secrets
+
+The Slack tokens we obtained need to be stored for the application to use them. In order to configure them, we can simple run `wing secrets main.w --create` with the desired platform, in the case of local testing the simulator is the default platform so no additional flags are needed. Whereas for AWS we can use the `tf-aws` platform, just append the flag `-t tf-aws` to the command.
+
+### Local secret configuration
+
+Running the blow command will result in an interactive prompt where you can input the Slack credentials:
+
+```bash
+wing secrets main.w --create
+
+2 secrets found in main.w
+
+Enter the value for SLACK_SIGNING_SECRET: ********
+Enter the value for SLACK_BOT_TOKEN: ********
+
+Secrets saved to .env file
+```
+
+This results in a `.env` file being created with the secrets stored in it.
+
+### AWS secret configuration
+
+Just like the local configuration, the AWS configuration is done in the same way, but with the `-t tf-aws` flag:
+
+```bash
+wing secrets main.w --create -t tf-aws
+
+2 secrets found in main.w
+
+Enter the value for SLACK_SIGNING_SECRET: ********
+Enter the value for SLACK_BOT_TOKEN: ********
+
+Secrets saved to AWS Secrets Manager
+```
+
+This will store the secrets in AWS Secrets Manager.
 
 ## Testing your application locally
 
@@ -132,7 +155,9 @@ When you are ready to test the application locally, you can run the following co
 wing it
 ```
 
-This will start the Wing Simulator and run your application locally. In the simulator your bot will use Slack Sockets so no need to use a redirect URL just yet.
+This will start the Wing Simulator and run your application locally. 
+
+> Slack offers two different ways to interact with events, one is through the Events API and the other is through Slack Sockets. The Events API requires a redirect URL to be configured in the Slack app, whereas Slack Sockets bypass this requirement through the use of a WebSocket connection. In the simulator your bot will use Slack Sockets so no need to use a redirect URL just yet, but when deploying to AWS you will need to configure one, which is explained in the next section.
 
 Once its running you can go ahead and give it a try by mentioning your bot in a Slack channel. 
 
@@ -148,6 +173,12 @@ terraform -chdir=./target/main.tfaws init
 terraform -chdir=./target/main.tfaws apply -auto-approve
 ```
 
+## Configure your Slack app with the Redirect URL
+
 In the output of the `apply` command you will see a Redirect URL that you will need to add to your Slack app configuration, in the Event subscriptions section.
+
+To do so, head back to the Slack API Dashboard and navigate to the `Event Subscriptions` section. Add the Redirect URL to the `Request URL` field and save the changes.
+
+## Fin
 
 And that's it! You now have a fully working Slack bot that can generate images using OpenAI's API.
