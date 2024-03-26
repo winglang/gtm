@@ -15,9 +15,9 @@ He searches online for "How to build a slack bot with ChatGPT?" and finds a post
 
 Title: **How to build and deploy a ChatGPT Slack Bot with Wing**
 
-This guide will walk you through building and deploying a fully working Slack Bot on Wing Cloud integrated with OpenAI's API.
+This guide will walk you through building and deploying a fully working AI-powered Slack Bot with Wing and deploying it to your AWS account.
 
-Our bot will be triggered by "@mentions" on a Slack channel and use ChatGPT to produce a response. It can be used for a million different things. We are going to deploy this application on AWS in 3 minutes!
+Our bot will be triggered by "@mentions" on a Slack channel and use Dall-E (OpenAI's image generation model) to produce a response. It can be used for a million different things. We are going to deploy this application on AWS in 3 minutes!
 
 [Let us know](https://t.winglang.io/slack) what you are building it with it.
 
@@ -28,9 +28,9 @@ If you like, you can also check out these resources:
 
 Before we get started, a few words about Wing. Wing is a new open-source framework for building serverless applications. Wing's mission is to offer the best serverless developer experience on the planet. One of the biggest pains people have when using serverless is that they constantly have to wait for deployments, and what I love most about Wing is the Wing Simulator which allows you to develop your entire serverless application without having to deploy anything on the cloud. Let's get started and you'll see what I mean.
 
-The Wing framework currently supports two programming languages: TypeScript and [Winglang](https://wing.cloud/winglang). For the purposes of this post, This post is available in both, so pick the one you love!
+The Wing framework currently supports two programming languages: TypeScript and [Winglang](https://wing.cloud/winglang). This post is available in both, so pick the one you love! <links to both versions>
 
-So without further ado, brin in the BOTS!
+So without further ado, bring in the BOTS!
 
 ## Creating a new application
 
@@ -47,7 +47,7 @@ wing --version
 0.62.1
 ```
 
-> As you can see, Wing is still in pre-release, so expect some hiccups and don't be shy reporting issues or get help from the awesome people hanging out on the Wing slack.
+> As you can see, Wing is still in pre-release, so expect some hiccups and don't be shy reporting issues or get help from the awesome people hanging out on the [Wing Slack](https://t.winglang.io/slack).
 
 Ok, now that we have the Wing CLI installed, let's create a new project using the `ai-slack-bot` quick-start:
 
@@ -93,7 +93,7 @@ Cool, ha?
 
 ## Configure your Slack application
 
-Head over to the Slack API Dashboard and create a new Slack app for out bot. 
+Head over to the Slack API Dashboard and create a new Slack app for our bot. 
 
 Then within the `OAuth & Permissions` section, add the following scopes to your bot token:
 - `app_mentions:read`
@@ -140,7 +140,7 @@ Once its running you can go ahead and give it a try by mentioning your bot in a 
 
 ## Deploying your application to AWS
 
-Once you are happy with the bot and want to deploy it to the cloud, we just need to compile to the `tf-aws` target and deploy it using Terraform:
+Once you are happy with the bot and want to deploy it to the cloud, we just need to compile to the `tf-aws` platform and deploy it using Terraform:
 
 ```bash
 wing compile -t tf-aws
