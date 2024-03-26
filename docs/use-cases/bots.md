@@ -181,4 +181,4 @@ To do so, head back to the Slack API Dashboard and navigate to the `Event Subscr
 
 ## Fin
 
-And that's it! You now have a fully working Slack bot that can generate images using OpenAI's API.
+Thats it! You now have a fully functioning Slack bot deployed to AWS. You can now mention your bot in a channel and see the magic happen.
