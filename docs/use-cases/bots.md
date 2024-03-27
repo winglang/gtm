@@ -34,7 +34,7 @@ So without further ado, bring in the BOTS!
 
 ## Creating a new application
 
-Let's start by installing the Wing CLI (you'll need Node.js >= 10.x installed):
+Let's start by installing the Wing CLI (you'll need Node.js >= 20.x installed):
 
 ```bash
 npm i -g wing
