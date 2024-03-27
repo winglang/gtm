@@ -78,13 +78,13 @@ bot.onEvent("app_mention", inflight (ctx, event) => {
 });
 ```
 
-The behavior should be pretty self explanatory: when our bot is @mentioned in a Slack channel, we send a request to OpenAI to generate the image and we post back the result in a thread.
+The behavior should be pretty self explanatory: when our bot is @mentioned in a Slack channel, we send a response message back to slack thread.
 
 Cool, ha?
 
 ## Configure your Slack application
 
-Head over to the Slack API Dashboard and create a new Slack app for our bot. 
+Head over to the [Slack Apps Dashboard](https://api.slack.com/apps) and create a new Slack app for our bot. 
 
 Then within the `OAuth & Permissions` section, add the following scopes to your bot token:
 - `app_mentions:read`
