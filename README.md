@@ -2,13 +2,13 @@
 
 | KPI Category            | Metric                   | Q1 Target | Current Numbers | Status | Last Week's Addition | This Week's Addition | Links to Data Source               |
 |-------------------------|--------------------------|-----------|-----------------|---------|----------------------|----------------------|------------------------------------|
-| Social following        | LinkedIn followers       | 1.3K      | 1.453K          | ✅      | +10                  | +5                    | [LinkedIn](https://www.linkedin.com/company/80551652/admin/analytics/followers/) |
-|                         | Twitter followers        | 1.3K      | 893             | 🟡      | +7                   | +14                   | [Twitter](https://twitter.com/winglangio) |
-|                         | Newsletter subscriptions | 1.5K      | 2.008K          | ✅      | +1                   | +1                   | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
-| Awareness               | Github stars             | 3.35K     | 3.601K          | ✅      | +36                  | +20                   | [GitHub](https://github.com/winglang/wing/stargazers) |
-|                         | Website visitors         | 25K       | 23K             | ✅      | +1.6K                | +1.4K                   | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome) |
-|                         | Slack members            | 672       | 1063            | ✅      | +12                  | +3                   | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
-| Usage                   | Signups                  | 150       | 173              | ✅     | +19                  | +15                   | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l) |
+| Social following        | LinkedIn followers       | 1.3K      | 1.457K          | ✅      | +5                   | +4                    | [LinkedIn](https://www.linkedin.com/company/80551652/admin/analytics/followers/) |
+|                         | Twitter followers        | 1.3K      | 899             | 🟡      | +14                  | +6                   | [Twitter](https://twitter.com/winglangio) |
+|                         | Newsletter subscriptions | 1.5K      | 2.012K          | ✅      | +1                   | +4                   | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
+| Awareness               | Github stars             | 3.35K     | 3.663K          | ✅      | +20                  | +62                   | [GitHub](https://github.com/winglang/wing/stargazers) |
+|                         | Website visitors         | 25K       | 23K             | ✅      | +1.4K                | +1.8K                   | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome) |
+|                         | Slack members            | 672       | 1068            | ✅      | +3                   | +5                   | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
+| Usage                   | Signups                  | 150       | 195              | ✅     | +15                  | +12                   | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l) |
 | Support commercial track| (temporary) Uri's satisfaction | Satisfied | Satisfied  | ✅      | No Change            | No Change            | [Uri's Slack](https://app.slack.com/client/T047MKK5ZHT?cdn_fallback=2) |
 
 
