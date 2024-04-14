@@ -6,7 +6,7 @@
 |                         | Twitter followers        | 1.3K      | 917             | 🟡      | +6                   | +18                  | [Twitter](https://twitter.com/winglangio) |
 |                         | Newsletter subscriptions | 1.5K      | 2.037K          | ✅      | +4                   | +25                  | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
 | Awareness               | Github stars             | 3.35K     | 4.196           | ✅      | +62                  | +533                 | [GitHub](https://github.com/winglang/wing/stargazers) |
-|                         | Website visitors         | 25K       | 5.6K            | ✅      | +1.8K                | +5.6K                | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome) |
+|                         | Website visitors         | 25K       | 25.6K           | ✅      | +1.8K                | +5.6K                | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome) |
 |                         | Slack members            | 672       | 1096            | ✅      | +5                   | +28                  | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
 | Usage                   | Signups                  | 150       | 238             | ✅      | +12                  | +43                  | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l) |
 |                         | Second day retention     | 17%       | 17%             | ✅      | +2                   | +6                   | [Uri's Slack](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/vuc8i1tt) |
