@@ -2,15 +2,15 @@
 
 | KPI Category            | Metric                   | Q2 Target | Current Numbers | Status  | Last Week's Addition | This Week's Addition | Links to Data Source               |
 |-------------------------|--------------------------|-----------|-----------------|---------|----------------------|----------------------|------------------------------------|
-| Social following        | LinkedIn followers       | 1.3K      | 1.494K          | ✅      | +15                  | +22                  | [LinkedIn](https://www.linkedin.com/company/80551652/admin/analytics/followers/) |
-|                         | Twitter followers        | 1.3K      | 942             | 🟡      | +18                  | +25                  | [Twitter](https://twitter.com/winglangio) |
-|                         | Newsletter subscriptions | 1.5K      | 2.042K          | ✅      | +25                  | +5                  | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
-| Awareness               | Github stars             | 3.35K     | 4.331           | ✅      | +533                 | +135                 | [GitHub](https://github.com/winglang/wing/stargazers) |
-|                         | Website visitors         | 25K       | 8.4K           | ✅      | +5.6K                | +2.6K                | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome) |
-|                         | Slack members            | 672       | 1111            | ✅      | +28                   | +15                  | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
+| Social following        | LinkedIn followers       | 1.3K      | 1.509K          | ✅      | +15                  | +15                  | [LinkedIn](https://www.linkedin.com/company/80551652/admin/analytics/followers/) |
+|                         | Twitter followers        | 1.3K      | 948             | 🟡      | +25                  | +6                   | [Twitter](https://twitter.com/winglangio) |
+|                         | Newsletter subscriptions | 1.5K      | 2.057K          | ✅      | + 5                  | +15                  | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
+| Awareness               | Github stars             | 3.35K     | 4.421           | ✅      | +135                 | +100                 | [GitHub](https://github.com/winglang/wing/stargazers) |
+|                         | Website visitors         | 25K       | 11.0K           | ✅      | +2.6K                | +1.8K                | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome) |
+|                         | Slack members            | 672       | 1122            | ✅      | +15                   | +11                  | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
 | Usage                   | Signups                  | 150       | 269             | ✅      | +43                  | +31                  | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l) |
-|                         | Second day retention     | 25%       | 14.5%             | ✅      | --                   | -2.5%                   | [Uri's Slack](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/vuc8i1tt) |
-|                         | Second month retention   | 40        | 14              | ✅      | +1                   | +0                   | [Uri's Slack](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/129qyuq2) |
+|                         | Second day retention     | 25%       | 14.5%             | ✅      | --                   | -2.5%                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/vuc8i1tt) |
+|                         | Second month retention   | 40        | 14              | ✅      | +1                   | +0                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/129qyuq2) |
 | Support commercial track| (temporary) Uri's satisfaction | Satisfied | Satisfied | ✅      | No Change            | No Change            | [Uri's Slack](https://app.slack.com/client/T047MKK5ZHT?cdn_fallback=2) |
 
 
