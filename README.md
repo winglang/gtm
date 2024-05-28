@@ -2,15 +2,15 @@
 
 | KPI Category            | Metric                   | Q2 Target | Current Numbers | Status  | Last Week's Addition | This Week's Addition | Links to Data Source               |
 |-------------------------|--------------------------|-----------|-----------------|---------|----------------------|----------------------|------------------------------------|
-| Social following        | LinkedIn followers       | 1.3K      | 1.564K          | ✅      | +7                  | +10                  | [LinkedIn](https://www.linkedin.com/company/80551652/admin/analytics/followers/) |
-|                         | Twitter followers        | 1.3K      | 1012            | 🟡      | +8                   | +27                   | [Twitter](https://twitter.com/winglangio) |
-|                         | Newsletter subscriptions | 1.5K      | 2.080K          | ✅      | + 9                 | +3                  | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
-| Awareness               | Github stars             | 3.35K     | 4.600K          | ✅      | +56                 | +33                 | [GitHub](https://github.com/winglang/wing/stargazers) |
-|                         | Website visitors         | 25K       | 19.0K           | ✅      | +1.8K                | +2.0K                | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome)  |
-|                         | Slack members            | 672       | 1153            | ✅      | +12                   | +3                  | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
-| Usage                   | Signups                  | 150       | 347             | ✅      | +20                  | +14                  | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l/edit/mq1mftax) |
-|                         | Second day retention     | 25%       | 21.4%            | ✅     | +2.0%                | +1.4%                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/5d54czf9) |
-|                         | Second month retention   | 40        | 22              | ✅      | +3                   | +1                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/oht59z4s) |
+| Social following        | LinkedIn followers       | 1.3K      | 1.5746K          | ✅      | +10                  | +12                  | [LinkedIn](https://www.linkedin.com/company/80551652/admin/analytics/followers/) |
+|                         | Twitter followers        | 1.3K      | 1016            | 🟡      | +27                   | +4                   | [Twitter](https://twitter.com/winglangio) |
+|                         | Newsletter subscriptions | 1.5K      | 2.086K          | ✅      | + 3                 | +6                  | [Newsletter](https://app-eu1.hubspot.com/contacts/26754295/lists/7/filters) |
+| Awareness               | Github stars             | 3.35K     | 4.623K          | ✅      | +33                 | +23                 | [GitHub](https://github.com/winglang/wing/stargazers) |
+|                         | Website visitors         | 25K       | 20.0K           | ✅      | +2.0K                | +1.6K                | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome)  |
+|                         | Slack members            | 672       | 1156            | ✅      | +3                   | +3                  | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
+| Usage                   | Signups                  | 150       | 381             | ✅      | +14                  | +34                  | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l/edit/mq1mftax) |
+|                         | Second day retention     | 25%       | 17.4%            | ✅     | +1.4%                | -3%                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/5d54czf9) |
+|                         | Second month retention   | 40        | 25              | ✅      | +1                   | +3                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/oht59z4s) |
 | Support commercial track| (temporary) Uri's satisfaction | Satisfied | Satisfied | ✅      | No Change            | No Change            | [Uri's Slack](https://app.slack.com/client/T047MKK5ZHT?cdn_fallback=2) |
 
 
