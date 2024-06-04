@@ -9,7 +9,7 @@
 |                         | Website visitors         | 25K       | 22.0K           | ✅      | +1.6K                | +1.9K                | [Analytics Platform](https://analytics.google.com/analytics/web/#/p343452879/reports/intelligenthome)  |
 |                         | Slack members            | 672       | 1156            | ✅      | +3                   | +0                  | [Slack](https://app.slack.com/client/T047MKK5ZHT/C047QFSUL5R?cdn_fallback=2) |
 | Usage                   | Signups                  | 150       | 412             | ✅      | +34                  | +32                  | [Signup Platform](https://app.amplitude.com/analytics/monada/chart/gqidau6l/edit/mq1mftax) |
-|                         | Second day retention     | 25%       | 23.9%            | ✅     | -3.0%                | -6.4%                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/5d54czf9) |
+|                         | Second day retention     | 25%       | 23.9%            | ✅     | -3.0%                | 6.4%                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/5d54czf9) |
 |                         | Second month retention   | 40        | 28              | ✅      | +3                   | +0                   | [Amplitude](https://app.amplitude.com/analytics/monada/chart/hv45hf2f/edit/oht59z4s) |
 | Support commercial track| (temporary) Uri's satisfaction | Satisfied | Satisfied | ✅      | No Change            | No Change            | [Uri's Slack](https://app.slack.com/client/T047MKK5ZHT?cdn_fallback=2) |
 
