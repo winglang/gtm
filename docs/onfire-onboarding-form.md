@@ -59,6 +59,15 @@ Europe, North America
 - Breaking the monolith
 - Building a platform for microservices
 - Enabling developers' self-service
+- Give product engineers more ownership on their services
+- Give developers more independence
+- Reduce load from platform / DevOps teams
+- How can I create platform middleware
+- Create golden path for developers
+- Give developers hyper autonomy
+- Security and compliance by construction
+- Develop fast and develop safe
+- Implement cloud platform policy to enable developers.
 
 ### Advantages
 > What are your advantages compared to your direct competitors?
