@@ -17,17 +17,17 @@ https://wing.cloud/
 > Please provide a short paragraph describing your company, including the problems it aims to solve, its solution, and the use cases using the products.
 > If there is more than one product, please describe the revenue pie regarding all the products.
 
-We are an early-stage startup currently in the product discovery phase and developing our product hypothesis. We are conducting interviews where we run some market research and present a demo of our (future) product to test how people react to it. Our main goal is to validate this by enrolling design partners.
+We are an early-stage startup currently in the product discovery phase, developing our product hypothesis. We are conducting interviews where we run market research and present a demo of our (future) product to gauge how people react to it. Our main goal is to validate this by enrolling design partners.
 
 We focus on platform engineering as our target market. Platform engineering teams have the mission to enable developers through self-service in ways that comply with the company's regulatory concerns.
 
-To help platform teams create a platform that enables true ownership of applications by product engineers, we have created a system called Kblocks.
+To help platform teams create a platform that enables true ownership of applications by product engineers, we have developed a system called Kblocks.
 
-Kblocks is a system that empowers developers' self-service by facilitating the creation, management, and delivery of custom Kubernetes resources for your organization. Kblocks can be consumed directly by developers or by using popular open-source tools like Helm & Kustomize.
+Kblocks is a system that empowers developers' self-service by facilitating the creation, management, and delivery of custom Kubernetes resources for your organization. Kblocks can be consumed directly by developers or through popular open-source tools like Helm & Kustomize.
 
-It can be used by two types of customers:
-1. Existing platform teams that are incrementally adopting Kblocks by adding one resource at a time for their existing platform.
-2. DevOps teams in companies reaching the point where they want to "break out of the monolith." To do so, they need a place to develop new software on Kubernetes and require a multi-service platform that allows developers to create new services, test them, and deploy them. These are usually teams calling themselves DevOps teams and not platform teams, and Kblocks will be adopted as a new overall platform that includes all self-service actions.
+Kblocks can be utilized by two types of customers:
+1. Existing platform teams that are incrementally adopting Kblocks by adding one resource at a time to their existing platform.
+2. DevOps teams in companies that have reached the point where they want to "break out of the monolith." To do so, they need a place to develop new software on Kubernetes and require a multi-service platform that allows developers to create new services, test them, and deploy them. These teams usually refer to themselves as DevOps teams rather than platform teams, and Kblocks will be adopted as a new overarching platform that includes all self-service actions.
 
 ### Competitors
 > Who are your competitors? By company, product name, and commonly used nicknames for the product and company.
