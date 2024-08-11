@@ -55,7 +55,7 @@ Kblocks can be utilized by two types of customers:
 
 **ICP - Focused regions?**
 
-Europe, North America 
+Europe, North America, Israel
 
 **What problems/pains/challenges are your customers trying to solve with the product/service?**
 - Breaking the monolith
