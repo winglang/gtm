@@ -38,6 +38,8 @@ Kblocks can be utilized by two types of customers:
 - Cortex.io
 - Backstage
 - Qovery.com 
+- Crossplane.io
+- upbound.io
 
 ### Ideal Customer Profile (ICP)
 **What is your ICP number of employees?**
