@@ -41,8 +41,10 @@ It can be used by two types of customers:
 
 ### Ideal Customer Profile (ICP)
 **What is your ICP number of employees?**
+50+ 
 
 **ICP - Revenue of the company**
+1M+ 
 
 **ICP - What are your ideal prospect's Job titles?**  
 > E.g., FinOps, Data Analyst, DevOps, etc.
@@ -50,6 +52,8 @@ It can be used by two types of customers:
 - Head of Platform Engineering
 
 **ICP - Focused regions?**
+
+Europe, North America 
 
 **What problems/pains/challenges are your customers trying to solve with the product/service?**
 - Breaking the monolith
@@ -88,7 +92,7 @@ At the time being, we are looking for design partners, not selling anything.
 > These are technologies that you don't support and would like to know in advance if your potential customer uses them.  
 > E.g., Serverless, On-Prem, (any cloud provider), Snowflake, DataDog, Kafka, Kubernetes, etc.
 
-- Serverless
+- Serverless, Snowflake
 
 ### Keywords
 **Please list out the main keywords that you think are relevant for your product(s)**
@@ -106,14 +110,17 @@ At the time being, we are looking for design partners, not selling anything.
 
 ### Sales Cycle
 **What is the average length or range of your sales cycle?**  
-E.g., 3 to 8 months.  
+> E.g., 3 to 8 months.
+
 NA
 
 ### Discovery Calls and Demos
 **How many discovery calls and demos are you generating with your current outbound efforts each month?**  
+
 20
 
 **How many discovery calls and demos are you generating from all channels (Total-each month)?**  
+
 20
 
 ### Upcoming Events
